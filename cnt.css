@@ -1,0 +1,51 @@
+.cont{
+    
+    height: auto;
+    border:2px solid #f9c13c;
+}
+
+.colour{
+    background-color:#f9c13c;
+}
+
+
+.contact{
+    padding: 30px 0px;
+}
+.form input{
+    margin: 20px 20px;
+    border: none;
+    border-bottom:1px solid black; 
+}
+.form textarea{
+    margin: 20px 20px;
+    border: none;
+    border-bottom:1px solid black; 
+}
+
+.submit{
+    width: 200px;
+    border-radius: 12px;
+    border: none;
+    background: #f9c13c;
+    color: white;
+}
+.submit:hover{
+    border: 1px solid #f9c13c;
+    background-color: white;
+    color: #f9c13c;
+}
+.picture{
+    background-image: url(in\ the\ air.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.abbu{
+    display: flex;
+  padding: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+

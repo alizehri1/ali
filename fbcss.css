@@ -1,0 +1,170 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@500&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: #f0f2f5;
+}
+.container {
+  position: absolute;
+  top: 30%;
+  left: 14%;
+  font-size: 25px;
+  
+}
+.container h1 {
+
+  color: #2c83f2;
+  font-family: "Roboto", sans-serif;
+}
+.container p {
+   position: absolute;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 500px;
+  margin-top: 10px;
+}
+main {
+  width: 390px;
+  height: 360px;
+  background-color: white;
+  position: absolute;
+  top: 20%;
+  left: 56%;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-style: none;
+}
+.box input {
+  width: 340px;
+  height: 40px;
+  margin: 10px;
+  margin-top: 18px;
+  margin-left: 15px;
+  padding: 5px 8px;
+  border-radius: 7px;
+}
+.link1 {
+
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 15px;
+  border-radius: 7px;
+  background-color: #2c83f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 20px;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 332px;
+}
+.link1 a {
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+}
+.link2 {
+  text-align: center;
+  margin-top: 15px;
+  margin: 12px;
+}
+.link2 a {
+  text-decoration: none;
+  color: #2c83f2;
+  font-family: "Roboto", sans-serif;
+}
+.link3 {
+  text-align: center;
+  margin-top: 15px;
+  background-color: #36a420;
+  width: 200px;
+  height: 40px;
+  margin-left: 100px;
+  border-radius: 7px;
+  padding-top: 15px;
+}
+.link3 a {
+  color: white;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 17px;
+}
+.text {
+    position: absolute;
+  top: 80%;
+  left: 60%;
+}
+.text a {
+  text-decoration: none;
+  color: black;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 500;
+}
+.lang {
+  background-color: white;
+  position: absolute;
+  top: 120%;
+  padding-top: 100px 50px 100px;
+  width: 100%;
+}
+.lang a {
+  word-spacing: 15px;
+  text-decoration: none;
+}
+ footer{
+    background-color: white;
+    height: 250px;
+    padding-bottom: 50px;
+    position: absolute;
+    top: 100%;
+}
+footer ol{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none; 
+    padding: 10px 0px;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+footer ol li{
+    padding: 5px;
+    font-size: 14px;
+    
+}
+footer ol a{
+    text-decoration: none;
+    color: #8a8d91;
+    text-align: center;
+}
+footer ol:first-child {
+    border-bottom: 1px solid #dddfe2;
+} 
+
+ footer ol:last-child button {
+    background-color: #f5f6f7;
+    border: 1px solid #ccd0d5;
+    outline: none;
+    color: #4b4f56;
+    padding: 0 8px;
+    font-weight: 700;
+    font-size: 16px;
+} 
+
+footer ol li a:hover {
+    text-decoration: underline;
+}
+
+footer small {
+    font-size: 11px;
+    margin-left: 205px;
+}   */
